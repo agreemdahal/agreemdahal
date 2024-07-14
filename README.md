@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Agrim Raj Dahal, a Computer Science Engineer and a fresher in data analytics. I have core knowledge in technical skills such as Python, SQL, Excel, Power BI, React, Laravel, and PHP. Additionally, I possess strong leadership and communication skills. I'm eager to apply my expertise to real-world challenges and contribute to impactful projects in data analytics.
+
+
 <!--
 **agreemdahal/agreemdahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
