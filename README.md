@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Agrim Raj Dahal, a Computer Science Engineer and a fresher in data analytics. I have core knowledge in technical skills such as Python, SQL, Excel, Power BI, React, Laravel, and PHP. Additionally, I possess strong leadership and communication skills. I'm eager to apply my expertise to real-world challenges and contribute to impactful projects in data analytics.
+I’m Agrim Raj Dahal, a detail-oriented and adaptable professional with a background in data management, client coordination, and operational reporting. Trained in Agile, Scrum, Kanban, and Waterfall methodologies, I bring a structured approach to planning, collaboration, and problem-solving. I’m comfortable working with Jira, MS Project, and Excel, with a focus on turning data into clear, actionable insights and supporting efficient project workflows. I’m continuously learning and developing my skills in project coordination, planning, and delivery.
 
 
 <!--
